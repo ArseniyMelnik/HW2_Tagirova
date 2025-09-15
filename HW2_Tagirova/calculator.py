@@ -1,4 +1,7 @@
-# calculator.py
+# calculator.py 
+def add(x, y):
+    return x + y
+
 def main():
     num1, op, num2 = input().split()  
     a = float(num1)
