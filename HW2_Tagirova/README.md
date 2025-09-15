@@ -13,4 +13,4 @@ This small project is a simple calculator of ours. The goal of this script is to
 - Substraction: Konstantin Yamschikov
 - Multiplication: Arseniy Melnik
 - Division: Sergey Losev
-![[meet.jpg]]
+![](https://github.com/sergosev/HW2_Tagirova/blob/HW2_Tagirova/HW2_Tagirova/meet.jpg)
